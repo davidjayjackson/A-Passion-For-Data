@@ -1,4 +1,4 @@
-## `A Passion For Data`
+## **`A Passion For Data`**
 
 You can use the [editor on GitHub](https://github.com/davidjayjackson/datanalytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
