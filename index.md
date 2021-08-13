@@ -15,7 +15,7 @@
 * Tools: Tabluea, R/Rtudio: tidyverse, R, Rstudio, ggplot2, lubridate etc.
 * YouTube Videos related to project: https://youtube.com/playlist?list=PLnBliEe9L853Rrts3QKXzf-RL49uuTa57
 * R/Studio/Tidyverse/Rmarkdown: https://github.com/davidjayjackson/CyclisticBikeShare/blob/master/analytics1.pdf
-* Tableua Report: https://public.tableau.com/views/CyclisticBikeSharevesion2/CyclisticStory?:language=en-US&:display_count=n&:origin=viz_share_link
+* Tableua Report: https://public.tableau.com/views/Book1CyclisticBikeShare/StoryCyclisticBikeShare?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ```markdown
 Syntax highlighted code block
 
