@@ -22,7 +22,7 @@
 #### Child-and-Infant-Mortality
 * Also Rmarkdown to create finished reports i.e. HTML, PDF and Slide presentations
 * [YouTube](https://www.youtube.com/watch?v=NYqXW5jZW9E&list=PLnBliEe9L851D687E7u_seIQYCJUcJYHV)
-*[Github: R/Rstudio/tidyverse/ggplot2](https://github.com/davidjayjackson/OWID-Child-and-Infant-Mortality)
+* [Github: R/Rstudio/tidyverse/ggplot2](https://github.com/davidjayjackson/OWID-Child-and-Infant-Mortality)
 
 #### Worldwide Cereals Consumption By Commodity
 * R/Rstudio/tidyverse/Rmarkdown
