@@ -21,41 +21,15 @@
 [YouTube: R/Rstudio] (https://youtu.be/NYqXW5jZW9E)
 #### Child-and-Infant-Mortality
 * Also Rmarkdown to create finished reports i.e. HTML, PDF and Slide presentations
-[YouTube](https://www.youtube.com/watch?v=NYqXW5jZW9E&list=PLnBliEe9L851D687E7u_seIQYCJUcJYHV)
-[Github: R/Rstudio/tidyverse/ggplot2](https://github.com/davidjayjackson/OWID-Child-and-Infant-Mortality)
+* [YouTube](https://www.youtube.com/watch?v=NYqXW5jZW9E&list=PLnBliEe9L851D687E7u_seIQYCJUcJYHV)
+*[Github: R/Rstudio/tidyverse/ggplot2](https://github.com/davidjayjackson/OWID-Child-and-Infant-Mortality)
 
 #### Worldwide Cereals Consumption Commodity
 * R/Rstudio/tidyverse/Rmarkdown
-[Github:] (https://github.com/davidjayjackson/OWID-cereals-by-commodity)
-```markdown
+* [Github:] (https://github.com/davidjayjackson/OWID-cereals-by-commodity)
 
 #### World Diet Vegetable Per Capita
 * R/Rstudio/Tidyvers/ggplot2/Rmarkdown
-[Github:] (https://github.com/davidjayjackson/OWID-diet-vegetable-per-capita)
+* [Github:] (https://github.com/davidjayjackson/OWID-diet-vegetable-per-capita)
 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidjayjackson/datanalytics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
