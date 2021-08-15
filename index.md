@@ -3,14 +3,14 @@
 ```markdown
 ### Certification and Training
 * Google Data Analytics Certification    (Aug. 2021)
-*https://www.coursera.org/account/accomplishments/certificate/YXGPH2GLJ9DG
+* (https://www.coursera.org/account/accomplishments/certificate/YXGPH2GLJ9DG)
 * Oracle SQL Certification
 ```
 ```markdown
 ### Capstone Projects (Case Studies)
 * Google Data Analytics: Cyclistics Bike-share (R/SQL.Tableua)
 *  Covid-19 Analysis (R/Rstudio/Tidyverse and Ggplot2)
-*  [Our World In Data] (http://ourworldindata.org)
+[Our World In Data] (http://ourworldindata.org)
 ```
 ```markdown
 ### Google 
