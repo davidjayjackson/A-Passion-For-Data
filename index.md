@@ -1,4 +1,5 @@
 ## *`A Passion For Data`*
+
 ```markdown
 ### Certification and Training
 * Google Data Analytics Certification    (Aug. 2021)
@@ -27,7 +28,7 @@
 * [YouTube] (https://www.youtube.com/watch?v=NYqXW5jZW9E&list=PLnBliEe9L851D687E7u_seIQYCJUcJYHV)
 * [Github: R/Rstudio/tidyverse/ggplot2] (https://github.com/davidjayjackson/OWID-Child-and-Infant-Mortality)
 ```
-```markdonw
+```markdown
 #### Worldwide Cereals Consumption By Commodity
 * R/Rstudio/tidyverse/Rmarkdown
 * [Github:] (https://github.com/davidjayjackson/OWID-cereals-by-commodity)
