@@ -2,8 +2,7 @@
 
 ```markdown
 ### Certification and Training
-* Google Data Analytics Certification    (Aug. 2021)
-* (https://www.coursera.org/account/accomplishments/certificate/YXGPH2GLJ9DG)
+[Google Data Analytics Certification  (Aug. 2021)](https://www.coursera.org/account/accomplishments/certificate/YXGPH2GLJ9DG)
 * Oracle SQL Certification
 ```
 ```markdown
