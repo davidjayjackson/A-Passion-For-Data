@@ -17,3 +17,6 @@
 * [Github/ R Code](https://github.com/davidjayjackson/CyclisticBikeShare)
 * Tableau Dashboard and Stories: 
 * [Case Study Version 1](https://public.tableau.com/views/Book1CyclisticBikeShare/StoryCyclisticBikeShare?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Case Studies: Our World In Data
+* [Our World In Data](http://ourworldindata.org)
