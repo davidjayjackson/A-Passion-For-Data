@@ -20,3 +20,11 @@
 
 ### Case Studies: Our World In Data
 * [Our World In Data](http://ourworldindata.org)
+
+#### Illicit Drug Use
+
+#### Diet Fruit Consumption per capita
+
+#### Diet Vegetable Consumption per Capita
+
+#### Cereals Consumption by Commodity
