@@ -14,9 +14,9 @@
 * Data analytic Tools: R/Tidyverse/Rstudio/ggplot2 and Tableau
 * [YouTube: How-to and Tutorial](https://youtube.com/playlist?list=PLnBliEe9L853Rrts3QKXzf-RL49uuTa57)
 
-* [**Github:R Code](https://github.com/davidjayjackson/CyclisticBikeShare)
+* [GITHUB:R CODE](https://github.com/davidjayjackson/CyclisticBikeShare)
 * Tableau Dashboard and Stories: 
-* [Case Study Version 1](https://public.tableau.com/views/Book1CyclisticBikeShare/StoryCyclisticBikeShare?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Case Study](https://public.tableau.com/views/Book1CyclisticBikeShare/StoryCyclisticBikeShare?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Case Studies: Our World In Data
 "Research and data to make progress against the world’s largest problems"
@@ -31,7 +31,7 @@ The main groups of illicit drugs used in international
 statistics are opioids, cocaine, amphetamines and cannabis". 
 
 
-* [**Github/R Code](https://github.com/davidjayjackson/OWID-illicit-drug-use)
+* [GITHUB/ R CODE](https://github.com/davidjayjackson/OWID-illicit-drug-use)
 * [Opioid Death Rate)](https://youtu.be/FI31CCphZOQ)
 * [Opioid Deaths Rate by County](https://youtu.be/Z94HPYyD1oo)
 * [Drug Overdose Deaths: Opioid, Cocaine, Amphetamine](https://youtu.be/_Q8fBs9_klQ)
@@ -40,12 +40,12 @@ statistics are opioids, cocaine, amphetamines and cannabis".
 
 #### Diet Fruit Consumption per capita
 
-* [**Github/R Code](https://github.com/davidjayjackson/OWID-diet-fruit-per-capita)
+* [GITHUB/ R CODE](https://github.com/davidjayjackson/OWID-diet-fruit-per-capita)
 
 #### Diet Vegetable Consumption per Capita
 
-* [**Github/R Code](https://github.com/davidjayjackson/OWID-diet-vegetable-per-capita)
+* [GITHUB/ RCODE](https://github.com/davidjayjackson/OWID-diet-vegetable-per-capita)
 
 #### Cereals Consumption by Commodity
 
-* [**Github/ R Code](https://github.com/davidjayjackson/OWID-cereals-by-commodity)
+* [GITHUB/ R CODE](https://github.com/davidjayjackson/OWID-cereals-by-commodity)
