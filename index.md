@@ -41,6 +41,11 @@ statistics are opioids, cocaine, amphetamines and cannabis".
 #### Diet Fruit Consumption per capita
 
 * [**Github/R Code](https://github.com/davidjayjackson/OWID-diet-fruit-per-capita)
+* [Countries with Highest Consumption of Fruit Per Person:part 1](https://youtu.be/LPlFnHRV2Hs)
+* [Per Capita Fruit Consumption Part 2](https://youtu.be/-cf-29MyPo8)
+* [Worldwide/US : Fruit Consumption By Fruit Type:1961 - 2013](https://youtu.be/TDSDgTl2igc)
+* [Fruit Consumption by Fruit Type: Part 3](https://youtu.be/KAvyEWe2N6Y)
+
 
 #### Diet Vegetable Consumption per Capita
 
