@@ -1,16 +1,16 @@
-<<<<<<< HEAD
-## *`A Passion For Data`*
+
+# *`A Passion For Data`*
 
 
-### Certification and Training
+## Certification and Training
 * [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/certificate/YXGPH2GLJ9DG)\n
 
 
-### Caribou Data Science: Tableua and R Data Analytics
+## Caribou Data Science: Tableua and R Data Analytics
 
 * [YouTube](https://www.youtube.com/channel/UCEYlsdkxG4hY6c5-5d3gxCw)
 
-### Google Data Analytics Capstone Projects
+## Google Data Analytics Capstone Projects
 #### Cyclist Bike Share Case Study
 * Data analytic Tools: R/Tidyverse/Rstudio/ggplot2 and Tableau
 * [YouTube: How-to and Tutorial](https://youtube.com/playlist?list=PLnBliEe9L853Rrts3QKXzf-RL49uuTa57)
@@ -19,12 +19,12 @@
 * Tableau Dashboard and Stories: 
 * [Case Study Version 1](https://public.tableau.com/views/Book1CyclisticBikeShare/StoryCyclisticBikeShare?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Case Studies: Our World In Data
+## Case Studies: Our World In Data
 "Research and data to make progress against the world’s largest problems"
 
 * [Our World In Data](http://ourworldindata.org)
 
-#### Illicit Drug Use
+### Illicit Drug Use
 
 "llicit drugs are drugs that have been prohibited 
 under international drug control treaties.
@@ -39,7 +39,7 @@ statistics are opioids, cocaine, amphetamines and cannabis".
 * [Worldwide Drug Overdose Deaths](https://youtu.be/xx_5AjIwESo)
 * [USA vs World Drug Overdose Deaths](https://youtu.be/1d6cijaXbBY)
 
-#### Diet Fruit Consumption per capita
+### Diet Fruit Consumption per capita
 
 * [**Github/R Code](https://github.com/davidjayjackson/OWID-diet-fruit-per-capita)
 * [Countries with Highest Consumption of Fruit Per Person:part 1](https://youtu.be/LPlFnHRV2Hs)
@@ -48,10 +48,10 @@ statistics are opioids, cocaine, amphetamines and cannabis".
 * [Fruit Consumption by Fruit Type: Part 3](https://youtu.be/KAvyEWe2N6Y)
 
 
-#### Diet Vegetable Consumption per Capita
+### Diet Vegetable Consumption per Capita
 
 * [**Github/R Code](https://github.com/davidjayjackson/OWID-diet-vegetable-per-capita)
 
-#### Cereals Consumption by Commodity
+### Cereals Consumption by Commodity
 
 * [**Github/ R Code](https://github.com/davidjayjackson/OWID-cereals-by-commodity)
