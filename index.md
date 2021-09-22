@@ -26,7 +26,7 @@
 
 ### Illicit Drug Use
 
-"llicit drugs are drugs that have been prohibited 
+"Illicit  drugs are drugs that have been prohibited 
 under international drug control treaties.
 The main groups of illicit drugs used in international 
 statistics are opioids, cocaine, amphetamines and cannabis". 
