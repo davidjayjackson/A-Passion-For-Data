@@ -3,7 +3,7 @@
 
 
 ## Certification and Training
-* [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/certificate/YXGPH2GLJ9DG)
+* [Google Data Analytics Certification](https://coursera.org/share/51f7d8d0b0e6ccd7557cce8531f56843)
 
 
 ## Caribou Data Science: Tableua and R Data Analytics
