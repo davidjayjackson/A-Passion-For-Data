@@ -8,7 +8,7 @@
 
 ## Caribou Data Science: Tableua and R Data Analytics
 
-* [YouTube](https://www.youtube.com/channel/UCEYlsdkxG4hY6c5-5d3gxCw)
+* [YouTube](https://www.youtube.com/c/CaribouDataScience)
 
 ## Google Data Analytics Capstone Projects
 #### Cyclist Bike Share Case Study
