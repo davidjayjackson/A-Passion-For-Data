@@ -4,6 +4,7 @@
 
 ## Certification and Training
 * [Google Data Analytics Certification](https://coursera.org/share/51f7d8d0b0e6ccd7557cce8531f56843)
+* [The Complete Oracle SQL Certification Course](https://www.udemy.com/certificate/UC-e1affe0d-490b-41f9-b716-cff895cf483d/)
 
 
 ## Caribou Data Science: Tableua and R Data Analytics
