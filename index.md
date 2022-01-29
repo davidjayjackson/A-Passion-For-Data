@@ -3,6 +3,7 @@
 
 * [Email: ] (davidjayjackson@gmail.com)
 * [Facebook Messenger:] (davidjayjackson)
+* [YouTube: Caribou Data Science ](https://www.youtube.com/c/CaribouDataScience)
 
 
 ## Certification and Training
@@ -10,9 +11,7 @@
 * [The Complete Oracle SQL Certification Course](https://www.udemy.com/certificate/UC-e1affe0d-490b-41f9-b716-cff895cf483d/)
 
 
-## Caribou Data Science: Tableua and R Data Analytics
-
-* [YouTube](https://www.youtube.com/c/CaribouDataScience)
+## Caribou Data Science: Power BI, SQL, R and Data Analytics
 
 ## Google Data Analytics Capstone Projects
 #### Cyclist Bike Share Case Study
