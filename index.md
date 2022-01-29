@@ -1,5 +1,5 @@
 
-## Contact Inormation
+## Contact Information
 
 * [Email: ] (davidjayjackson@gmail.com)
 * [Facebook Messenger:] (davidjayjackson)
