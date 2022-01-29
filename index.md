@@ -1,7 +1,7 @@
 
 ## Contact Inormation
-[Email: David Jackson[(davidjayjackson@gmail.com)
-[Facebook Messenger:] (davidjayjackson)
+* [Email: David Jackson[(mail:davidjayjackson@gmail.com)
+*[Facebook Messenger:] (davidjayjackson)
 
 
 ## Certification and Training
