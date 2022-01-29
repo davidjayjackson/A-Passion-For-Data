@@ -1,7 +1,7 @@
 
 ## Contact Inormation
 
-* [Email: (davidjayjackson@gmail.com)
+* [Email: ] (davidjayjackson@gmail.com)
 * [Facebook Messenger:] (davidjayjackson)
 
 
