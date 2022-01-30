@@ -11,7 +11,10 @@
 * [The Complete Oracle SQL Certification Course](https://www.udemy.com/certificate/UC-e1affe0d-490b-41f9-b716-cff895cf483d/)
 
 
-## Data Analytivs: Tableua, Power BI, SQL(Server,Oracle), R Programming Language,RStudio, Tidyverse, and GGplot2
+## Data Analytics: 
+* Tableua, Power BI, 
+* SQL(Server 2019, Oracle), 
+* R Programming Language,RStudio, Tidyverse, and GGplot2
 
 ## Google Data Analytics Capstone Projects
 #### Cyclist Bike Share Case Study
