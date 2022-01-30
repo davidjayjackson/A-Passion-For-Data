@@ -11,7 +11,7 @@
 * [The Complete Oracle SQL Certification Course](https://www.udemy.com/certificate/UC-e1affe0d-490b-41f9-b716-cff895cf483d/)
 
 
-## Caribou Data Science: Power BI, SQL, R and Data Analytics
+## Data Analytivs: Tableua, Power BI, SQL(Server,Oracle), R Programming Language,RStudio, Tidyverse, and GGplot2
 
 ## Google Data Analytics Capstone Projects
 #### Cyclist Bike Share Case Study
