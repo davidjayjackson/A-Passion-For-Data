@@ -10,6 +10,7 @@
 * [Google Data Analytics Certification](https://coursera.org/share/51f7d8d0b0e6ccd7557cce8531f56843)
 * [The Complete Oracle SQL Certification Course](https://www.udemy.com/certificate/UC-e1affe0d-490b-41f9-b716-cff895cf483d/)
 * [Data Analysis with Google Big Query](https://www.udemy.com/certificate/UC-b2109ad9-c14c-4def-b7ff-0f72c23b9f6e/)
+* [Master SQL For Data Science(PostgresSQL)](https://www.udemy.com/certificate/UC-ef743e8e-d41c-4df8-a1d2-d229eaae7fc9/)
 
 
 ## Data Analytics: 
