@@ -14,17 +14,17 @@
 
 
 ## Data Analytic Skills: 
-•	Tableau, Power BI:
-o	Power Query, Data Cleaning, Web Scraping, Database Connectivity, Data Visualization, Dashboard and Stories 
-•	Excel: 
-o	Power Query, Pivot Tables, Data Model and Dashboard, Data Cleaning, Database Connectivity, and Web Scraping, Slicers and Timelines
-•	 SQL (Server 2019, Oracle, PostgreSQL, T-SQL): 
-o	Joins and Views, Common Table Expression (CTEs), Window Functions, Rollup and Cube Function, and VS Code
-•	 R Programming Language (and packages):
-o	RStudio, Tidyverse, and GGplot2, Lubridate, Janitor, Forecast
-•	Integrated Development Environment (IDE):
-o	RStudio, VS Code, SQL Server Management Studio,
-o	And Pg Admin (PostgreSQL).
+*	Tableau, Power BI:
+**	Power Query, Data Cleaning, Web Scraping, Database Connectivity, Data Visualization, Dashboard and Stories 
+*	Excel: 
+**	Power Query, Pivot Tables, Data Model and Dashboard, Data Cleaning, Database Connectivity, and Web Scraping, Slicers and Timelines
+*	 SQL (Server 2019, Oracle, PostgreSQL, T-SQL): 
+**	Joins and Views, Common Table Expression (CTEs), Window Functions, Rollup and Cube Function, and VS Code
+*	 R Programming Language (and packages):
+**	RStudio, Tidyverse, and GGplot2, Lubridate, Janitor, Forecast
+*	Integrated Development Environment (IDE):
+**	RStudio, VS Code, SQL Server Management Studio,
+**	And Pg Admin (PostgreSQL).
 
 
 ## Google Data Analytics Capstone Projects
