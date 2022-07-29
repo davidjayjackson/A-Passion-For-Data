@@ -13,10 +13,19 @@
 * [Master SQL For Data Science(PostgresSQL)](https://www.udemy.com/certificate/UC-ef743e8e-d41c-4df8-a1d2-d229eaae7fc9/)
 
 
-## Data Analytics: 
-* Tableua, Power BI, 
-* SQL(Server 2019, Oracle), 
-* R Programming Language,RStudio, Tidyverse, and GGplot2
+## Data Analytic Skills: 
+•	Tableau, Power BI:
+o	Power Query, Data Cleaning, Web Scraping, Database Connectivity, Data Visualization, Dashboard and Stories 
+•	Excel: 
+o	Power Query, Pivot Tables, Data Model and Dashboard, Data Cleaning, Database Connectivity, and Web Scraping, Slicers and Timelines
+•	 SQL (Server 2019, Oracle, PostgreSQL, T-SQL): 
+o	Joins and Views, Common Table Expression (CTEs), Window Functions, Rollup and Cube Function, and VS Code
+•	 R Programming Language (and packages):
+o	RStudio, Tidyverse, and GGplot2, Lubridate, Janitor, Forecast
+•	Integrated Development Environment (IDE):
+o	RStudio, VS Code, SQL Server Management Studio,
+o	And Pg Admin (PostgreSQL).
+
 
 ## Google Data Analytics Capstone Projects
 #### Cyclist Bike Share Case Study
