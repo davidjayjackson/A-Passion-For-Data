@@ -17,14 +17,13 @@
 *	Tableau, Power BI:
  	Power Query |Data Cleaning | Web Scraping | Database Connectivity | Data Visualization |Dashboard and Stories 
 *	Excel: 
-Power Query, Pivot Tables, Data Model and Dashboard, Data Cleaning, Database Connectivity, and Web Scraping, Slicers and Timelines
-*	 SQL (Server 2019, Oracle, PostgreSQL, T-SQL): 
- Joins and Views, Common Table Expression (CTEs), Window Functions, Rollup and Cube Function, and VS Code
+Power Query |  Pivot Tables | Data Model and Dashboard | Data Cleaning | Database Connectivity | and Web Scraping |Slicers | Timelines
+* SQL (Server 2019, Oracle, PostgreSQL, T-SQL): 
+ Joins and Views | Common Table Expression (CTEs) |  Window Functions | Rollup and Cube Function | VS Code
 *	 R Programming Language (and packages):
-RStudio, Tidyverse, and GGplot2, Lubridate, Janitor, Forecast
+RStudio | Tidyverse | GGplot2 | Lubridate |Janitor | Forecast
 *	Integrated Development Environment (IDE):
-**	RStudio, VS Code, SQL Server Management Studio,
-**	And Pg Admin (PostgreSQL).
+RStudio | VS Code | SQL Server Management Studio | Pg Admin (PostgreSQL).
 
 
 ## Google Data Analytics Capstone Projects
