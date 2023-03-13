@@ -14,8 +14,13 @@
 
 
 ## Data Analytic Skills: 
-*	Tableau, Power BI:
- 	Power Query |Data Cleaning | Web Scraping | Database Connectivity | Data Visualization |Dashboard and Stories 
+* Talend Open Studio(Data Integration):
+* Possess a strong working knowledge of Talend| including the ability to work with diverse file formats 
+  and employ advanced functions such as aggregate, filterRow, and Filter Columns.
+*	Tableau, Power BI: 
+  Proficient in Tableau and Power BI, with expertise in data cleaning, web scraping, database connectivity, 
+  and creating impactful visualizations, dashboards, and stories. Skilled in using Power Query for efficient data preparation.
+ 	
 *	Excel: 
 Power Query |  Pivot Tables | Data Model and Dashboard | Data Cleaning | Database Connectivity | and Web Scraping |Slicers | Timelines
 * SQL (Server 2019, Oracle, PostgreSQL, T-SQL): 
